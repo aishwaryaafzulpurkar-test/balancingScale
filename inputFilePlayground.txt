@@ -1,0 +1,6 @@
+#ScaleName,Left,Right
+A1,0,C4
+C4,C5,C6
+C5,4,C7
+C6,2,3
+C7,1,1
